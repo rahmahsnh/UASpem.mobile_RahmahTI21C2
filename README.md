@@ -152,9 +152,6 @@
         android:layout_marginEnd="0dp"
         android:layout_marginBottom="200dp">
         
-        
-![mobile 1](https://user-images.githubusercontent.com/116366904/214574410-2cd96f35-f450-4e28-b1cd-8ff81354212e.JPG)
-
         <ImageButton
             android:id="@+id/imageButton3"
             style="@android:style/Widget.ImageButton"
@@ -228,3 +225,6 @@
   
 
 </RelativeLayout>
+
+
+![mobile 1](https://user-images.githubusercontent.com/116366904/214574410-2cd96f35-f450-4e28-b1cd-8ff81354212e.JPG)
